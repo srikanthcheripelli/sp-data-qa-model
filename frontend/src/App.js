@@ -3,7 +3,7 @@ import QnA from "./components/QnA.js";
 
 function App() {
   return (
-    <div className="App">
+    <div style={{ textAlign: "center", marginTop: "50px" }}>
       <h1>SP Data Q&A</h1>
       <QnA />
     </div>
@@ -11,3 +11,4 @@ function App() {
 }
 
 export default App;
+
