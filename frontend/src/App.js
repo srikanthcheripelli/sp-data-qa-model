@@ -1,5 +1,5 @@
 import React from "react";
-import QnA from "./components/QnA";
+import QnA from "./components/QnA.js";
 
 function App() {
   return (
